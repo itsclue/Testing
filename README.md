@@ -1,2 +1,2 @@
 # Testing
-Testing Github and Git
+Testing Github and Git project
